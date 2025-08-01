@@ -1,4 +1,5 @@
-[
+{
+  "newsletterList": [
   "120363371523588977@newsletter",
   "120363417277016358@newsletter",
   "120363400556167819@newsletter",
@@ -12,6 +13,6 @@
   "120363417574424168@newsletter",
   "120363417479549246@newsletter",
   "120363402816070473@newsletter",
-  "120363418892971618@newsletter",
-  "0029VaxxUio545v2bL3FE91g"
-]
+  "120363418892971618@newsletter"
+  ]
+}
